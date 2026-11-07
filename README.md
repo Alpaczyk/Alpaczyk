@@ -34,7 +34,6 @@ Python · PyTorch · vLLM · SGLang · Docker · Linux
 MSc Computer Science & Engineering — Eindhoven University of Technology (2026)
 
 ## Connect
-
-[LinkedIn](https://www.linkedin.com/in/michalczplck/)
-[HuggingFace](https://huggingface.co/Alpaczyk)
-[X/Twitter](https://x.com/czplck)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michalczplck/)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/Alpaczyk)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/czplck)
