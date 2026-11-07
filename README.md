@@ -27,7 +27,7 @@ LLM Inference · AI Systems · GPU Computing · Performance Engineering
 
 ## Technologies
 
-Python · C/C++ · PyTorch · vLLM · SGLang · Docker · Linux
+Python · PyTorch · vLLM · SGLang · Docker · Linux
 
 ## Background
 
@@ -36,3 +36,5 @@ MSc Computer Science & Engineering — Eindhoven University of Technology (2026)
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/michalczplck/)
+[HuggingFace](https://huggingface.co/Alpaczyk)
+[X/Twitter](https://x.com/czplck)
